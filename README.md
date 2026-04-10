@@ -110,8 +110,8 @@ See `requirements.txt` for complete list with versions.
 ┌─────────────────────────────────────┐
 │   HuggingFace AI Models             │
 │  ┌──────────────────────────────┐   │
-│  │ Qwen/Qwen3.5-9B             │   │
-│  │ Stable Diffusion 3           │   │
+│  │ Qwen/Qwen3.5-9B              │   │
+│  │                              │   │
 │  │ FLUX.1                       │   │
 │  └──────────────────────────────┘   │
 └─────────────────────────────────────┘
