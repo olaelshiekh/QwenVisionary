@@ -1,0 +1,5 @@
+huggingface-hub
+python-dotenv
+streamlit
+Pillow
+requests
